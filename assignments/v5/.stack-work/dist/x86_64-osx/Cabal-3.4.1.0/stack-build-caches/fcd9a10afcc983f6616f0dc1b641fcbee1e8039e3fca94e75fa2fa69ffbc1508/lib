@@ -1,0 +1,14 @@
+/Users/harrison/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+/Users/harrison/Desktop/CMPT383/v5/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/autogen/Paths_v5.hs:
+  hash: bb287ac6af23cd43bde1cf8225a1f5cc633cf25fb6e8d3dfd6c06373d9c4a67d
+/Users/harrison/Desktop/CMPT383/v5/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/autogen/cabal_macros.h:
+  hash: 0573865b7d94eb330d0d429638deaec7fb78a068451114a612dd9639e94964ab
+/Users/harrison/Desktop/CMPT383/v5/package.yaml:
+  hash: 4b332b09f007550f3262c8fee87a4391e34f0cb6eae7d0343631f4715964c54b
+/Users/harrison/Desktop/CMPT383/v5/src/WarnedArithmetic.hs:
+  hash: 937c9c10b6fdad9330530e3efde6618a0c9bc916a95bd45f3a8582bd5ef36647
+/Users/harrison/Desktop/CMPT383/v5/src/WarningAccumulatorMonad.hs:
+  hash: f25635623b5136efc61900786c7502b48345ce382ed640f0d9d758dbb99afb80
+/Users/harrison/Desktop/CMPT383/v5/v5.cabal:
+  hash: 33951c2f1c7e2adb9483799a69cb1095ce3c723451e3b7b53e97429c411e2c64

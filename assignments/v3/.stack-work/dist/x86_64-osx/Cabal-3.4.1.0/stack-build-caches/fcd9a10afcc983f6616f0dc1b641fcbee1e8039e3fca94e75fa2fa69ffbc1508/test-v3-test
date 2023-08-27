@@ -1,0 +1,14 @@
+/Users/harrison/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+/Users/harrison/Desktop/CMPT383/v3/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/v3-test/autogen/Paths_v3.hs:
+  hash: 9d6130d1771b4bfdfba1162163cd63485a795a64316541b1c0cf70b235bd69fa
+/Users/harrison/Desktop/CMPT383/v3/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/v3-test/autogen/cabal_macros.h:
+  hash: 8d9d2e7ab052c148f343dcc545c7ab077634fb3c1acf18558b443709bd39239b
+/Users/harrison/Desktop/CMPT383/v3/package.yaml:
+  hash: 28bbcc5e191123f096506808434f7a63a72b3ba6ec6eec2aed1c3cacea2ef2a0
+/Users/harrison/Desktop/CMPT383/v3/test/SwitchableStackTests.hs:
+  hash: 387b49264527add8733d87eb730f1aa271839928f6cf76ad6ca04ec2e1b49e91
+/Users/harrison/Desktop/CMPT383/v3/test/TestRunner.hs:
+  hash: 4bbf8a66299499af20b4cc5845d30f5bad078adc5dae3d1c1c0b5fe78b07bacf
+/Users/harrison/Desktop/CMPT383/v3/v3.cabal:
+  hash: d8a77fb57b947133e02099aa233f11eabdd45530d4b5fcec213081a9b27810ae

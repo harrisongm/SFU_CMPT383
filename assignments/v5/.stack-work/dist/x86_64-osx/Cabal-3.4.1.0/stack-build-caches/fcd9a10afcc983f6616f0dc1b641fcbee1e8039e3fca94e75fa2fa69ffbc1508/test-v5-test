@@ -1,0 +1,18 @@
+/Users/harrison/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+/Users/harrison/Desktop/CMPT383/v5/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/v5-test/autogen/Paths_v5.hs:
+  hash: 18c6e6fe35cdc3fb83f2e712712198cc4b043dcb80fc4bac385fcf820edb69c6
+/Users/harrison/Desktop/CMPT383/v5/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/v5-test/autogen/cabal_macros.h:
+  hash: b27319ef40120cd981006e64411e18cd3be8b26a5b368d2d3ba75a9a1fc6dce5
+/Users/harrison/Desktop/CMPT383/v5/package.yaml:
+  hash: 4b332b09f007550f3262c8fee87a4391e34f0cb6eae7d0343631f4715964c54b
+/Users/harrison/Desktop/CMPT383/v5/test/TestRunner.hs:
+  hash: 40a3674348713147124a6b23d507fefbd6e6a8ee75cb1e1ea799999bff4d9b42
+/Users/harrison/Desktop/CMPT383/v5/test/TestingFramework.hs:
+  hash: b711252288a5a06657aff4356309e63f074843d09d476a85e6736343bca06aff
+/Users/harrison/Desktop/CMPT383/v5/test/WarnedArithmeticTests.hs:
+  hash: fcf8164cb91dbd0c887e406785c11b65eb6cec51f2bbc2fa5c4a0d976922cef7
+/Users/harrison/Desktop/CMPT383/v5/test/WarningAccumulatorMonadTests.hs:
+  hash: 35b1a51cd27586e868dd118f903567fe3ed80e72f9572ceab2258ac26440855f
+/Users/harrison/Desktop/CMPT383/v5/v5.cabal:
+  hash: 33951c2f1c7e2adb9483799a69cb1095ce3c723451e3b7b53e97429c411e2c64

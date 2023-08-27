@@ -1,0 +1,14 @@
+/Users/harrison/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+/Users/harrison/Desktop/CMPT383/a2/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/a2-test/autogen/Paths_a2.hs:
+  hash: 8f03407e01bb5a640667e9b72bd37dfeddbe1b49ef90b764bc97e3057e079b93
+/Users/harrison/Desktop/CMPT383/a2/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/a2-test/autogen/cabal_macros.h:
+  hash: 69604d78dc873932048296d7314b56765460f9a410281465e948d82eeb322ce0
+/Users/harrison/Desktop/CMPT383/a2/a2.cabal:
+  hash: 32a1149892ca6aee09c92418f05f3909ae4a3a8bade8fa558b42a271abfeb471
+/Users/harrison/Desktop/CMPT383/a2/package.yaml:
+  hash: 21e738ea876f20c5a3da6c48de325d33ffed35e445eb95e2c59d235d9103256a
+/Users/harrison/Desktop/CMPT383/a2/test/SynthesizerTests.hs:
+  hash: 3f147fd0c5f621c7d7045bf5823153bc8cc2fcafc3c78cb20bc2beda9b10fc9f
+/Users/harrison/Desktop/CMPT383/a2/test/TestRunner.hs:
+  hash: 3e06e98c8fef6b4fc7dabc00d8655bdec9e081278558719ae250c8f0b252cfba
